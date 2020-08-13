@@ -1,2 +1,2 @@
 # Machine-learning-algorithms
-The repository contains implementation of popular machine learning algorithms.
+The repository contains implementation of some popular machine learning algorithms.
